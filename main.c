@@ -6,5 +6,6 @@ int main(){
     int d=30;
     printf("%d",a);
     pritnf("hello welcome to ych");
+    pritnf("hello welcome to ych");
     return 0;
 }
